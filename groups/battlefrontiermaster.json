@@ -125,7 +125,7 @@
 }, {
     "speciesId": "gengar_mega",
     "fastMove": "SHADOW_CLAW",
-    "chargedMoves": ["SHADOW_BALL", "SHADOW_PUNCH"]
+    "chargedMoves": ["SLUDGE_BOMB", "SHADOW_PUNCH"]
 }, {
     "speciesId": "slowbro_mega",
     "fastMove": "CONFUSION",
@@ -194,4 +194,16 @@
     "speciesId": "ursaluna",
     "fastMove": "TACKLE",
     "chargedMoves": ["SWIFT", "HIGH_HORSEPOWER"]
+}, {
+    "speciesId": "zamazenta",
+    "fastMove": "ICE_FANG",
+    "chargedMoves": ["CLOSE_COMBAT", "CRUNCH"]
+}, {
+    "speciesId": "latios",
+    "fastMove": "DRAGON_BREATH",
+    "chargedMoves": ["DRAGON_CLAW", "LUSTER_PURGE"]
+}, {
+    "speciesId": "zapdos",
+    "fastMove": "THUNDER_SHOCK",
+    "chargedMoves": ["DRILL_PECK", "THUNDERBOLT"]
 }]

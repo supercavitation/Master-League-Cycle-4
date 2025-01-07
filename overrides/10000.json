@@ -17,7 +17,7 @@
   },
   {
     "speciesId": "alakazam_mega",
-    "fastMove": "COUNTER",
+    "fastMove": "PSYCHO_CUT",
     "chargedMoves": ["FIRE_PUNCH","SHADOW_BALL"],
     "weight": 1
   },
@@ -173,6 +173,16 @@
     "weight": 1
   },
   {
+    "speciesId": "feraligatr",
+    "chargedMoves": ["HYDRO_CANNON","ICE_BEAM"],
+    "weight": 1
+  },
+  {
+    "speciesId": "feraligatr_shadow",
+    "chargedMoves": ["HYDRO_CANNON","ICE_BEAM"],
+    "weight": 1
+  },
+  {
     "speciesId": "florges",
     "chargedMoves": ["DISARMING_VOICE","MOONBLAST"],
     "weight": 1
@@ -202,27 +212,27 @@
   },
   {
     "speciesId": "genesect",
-    "chargedMoves": ["X_SCISSOR","TECHNO_BLAST_NORMAL"],
+    "chargedMoves": ["MAGNET_BOMB","TECHNO_BLAST_NORMAL"],
     "weight": 1
   },
   {
     "speciesId": "genesect_burn",
-    "chargedMoves": ["X_SCISSOR","TECHNO_BLAST_BURN"],
+    "chargedMoves": ["MAGNET_BOMB","TECHNO_BLAST_BURN"],
     "weight": 1
   },
   {
     "speciesId": "genesect_chill",
-    "chargedMoves": ["X_SCISSOR","TECHNO_BLAST_CHILL"],
+    "chargedMoves": ["MAGNET_BOMB","TECHNO_BLAST_CHILL"],
     "weight": 1
   },
   {
     "speciesId": "genesect_douse",
-    "chargedMoves": ["X_SCISSOR","TECHNO_BLAST_DOUSE"],
+    "chargedMoves": ["MAGNET_BOMB","TECHNO_BLAST_DOUSE"],
     "weight": 1
   },
   {
     "speciesId": "genesect_shock",
-    "chargedMoves": ["X_SCISSOR","TECHNO_BLAST_SHOCK"],
+    "chargedMoves": ["MAGNET_BOMB","TECHNO_BLAST_SHOCK"],
     "weight": 1
   },
   {
@@ -290,12 +300,12 @@
   },
   {
     "speciesId": "hippowdon",
-    "chargedMoves": ["WEATHER_BALL_ROCK","EARTH_POWER"],
+    "chargedMoves": ["WEATHER_BALL_ROCK","SCORCHING_SANDS"],
     "weight": 1
   },
   {
     "speciesId": "hippowdon_shadow",
-    "chargedMoves": ["WEATHER_BALL_ROCK","EARTH_POWER"],
+    "chargedMoves": ["WEATHER_BALL_ROCK","SCORCHING_SANDS"],
     "weight": 1
   },
   {
@@ -446,7 +456,7 @@
   },
   {
     "speciesId": "mew",
-    "chargedMoves": ["SURF","WILD_CHARGE"],
+    "chargedMoves": ["DRAGON_CLAW","ICE_BEAM"],
     "weight": 1
   },
   {
@@ -544,12 +554,12 @@
   },
   {
     "speciesId": "raikou",
-    "fastMove": "VOLT_SWITCH",
+    "fastMove": "THUNDER_SHOCK",
     "weight": 1
   },
   {
     "speciesId": "raikou_shadow",
-    "fastMove": "VOLT_SWITCH",
+    "fastMove": "THUNDER_SHOCK",
     "weight": 1
   },
   {
@@ -570,6 +580,11 @@
   },
   {
     "speciesId": "regirock",
+    "chargedMoves": ["STONE_EDGE","FOCUS_BLAST"],
+    "weight": 1
+  },
+  {
+    "speciesId": "regirock_shadow",
     "chargedMoves": ["STONE_EDGE","FOCUS_BLAST"],
     "weight": 1
   },
@@ -612,6 +627,11 @@
     "speciesId": "shaymin_land",
     "fastMove": "ZEN_HEADBUTT",
     "chargedMoves": ["GRASS_KNOT","SEED_FLARE"],
+    "weight": 1
+  },
+  {
+    "speciesId": "skeledirge",
+    "chargedMoves": ["SHADOW_BALL","DISARMING_VOICE"],
     "weight": 1
   },
   {

@@ -203,7 +203,7 @@
     "fastMove": "TACKLE",
     "chargedMoves": ["SWIFT", "HIGH_HORSEPOWER"]
 }, {
-    "speciesId": "zamazenta",
+    "speciesId": "zamazenta_hero",
     "fastMove": "ICE_FANG",
     "chargedMoves": ["CLOSE_COMBAT", "CRUNCH"]
 }, {
